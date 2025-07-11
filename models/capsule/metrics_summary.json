@@ -1,0 +1,16 @@
+{
+    "category": "capsule",
+    "test_accuracy": 0.4107142857142857,
+    "test_f1_defective": 0.0,
+    "test_precision_defective": 0.0,
+    "test_recall_defective": 0.0,
+    "test_f1_macro": 0.2911392405063291,
+    "class_distribution_train": {
+        "1": 61,
+        "0": 175
+    },
+    "class_distribution_test": {
+        "0": 23,
+        "1": 33
+    }
+}

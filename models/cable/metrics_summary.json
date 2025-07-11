@@ -1,0 +1,16 @@
+{
+    "category": "cable",
+    "test_accuracy": 0.6744186046511628,
+    "test_f1_defective": 0.0,
+    "test_precision_defective": 0.0,
+    "test_recall_defective": 0.0,
+    "test_f1_macro": 0.4027777777777778,
+    "class_distribution_train": {
+        "0": 179,
+        "1": 51
+    },
+    "class_distribution_test": {
+        "0": 58,
+        "1": 28
+    }
+}

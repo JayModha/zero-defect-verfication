@@ -1,0 +1,16 @@
+{
+    "category": "bottle",
+    "test_accuracy": 0.5128205128205128,
+    "test_f1_defective": 0.0,
+    "test_precision_defective": 0.0,
+    "test_recall_defective": 0.0,
+    "test_f1_macro": 0.3389830508474576,
+    "class_distribution_train": {
+        "0": 167,
+        "1": 35
+    },
+    "class_distribution_test": {
+        "0": 20,
+        "1": 19
+    }
+}

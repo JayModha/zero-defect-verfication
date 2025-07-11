@@ -1,0 +1,16 @@
+{
+    "category": "kolektor",
+    "test_accuracy": 0.6058823529411764,
+    "test_f1_defective": 0.0,
+    "test_precision_defective": 0.0,
+    "test_recall_defective": 0.0,
+    "test_f1_macro": 0.3772893772893773,
+    "class_distribution_train": {
+        "0": 1651,
+        "1": 623
+    },
+    "class_distribution_test": {
+        "1": 335,
+        "0": 515
+    }
+}
